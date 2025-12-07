@@ -5,9 +5,11 @@
 <!-- Tagline -->
 <h3 align="center"><font face="Arial">Frontend • Backend • App Development • Game Development • DevOps Explorer</font></h3>
 
+---
+
 <!-- GIF -->
-<!-- <img align="right" alt="coding gif" width="390" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">  -->
-<img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" />
+<!-- <img align="right" height="300" width="450" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif" /> -->
+<img align="right"  width="450" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" /> 
 
 
 <!-- Introduction Section -->
@@ -21,8 +23,7 @@
 - 🎧 Rap lover • Favorite Artist → **EMINEM**
 - Always hungry to learn & build something new
 
-
-
+---
 
 <!-- Languages and Tools Section -->
 <h3><font size="+2" face="Verdana">Languages and Tools:</font></h3>
