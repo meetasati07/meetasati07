@@ -3,7 +3,7 @@
 <h3 align="center"><font face="Arial">A passionate Computer Science student & Developer from India. I love building products, learning new tech and exploring code beyond the classroom.</font></h3>
 
 <!-- Tagline -->
-<h3 align="center"><font face="Arial">Frontend • Backend • App Development • Game Development • DevOps Explorer</font></h3>
+<h3 align="center"><font face="Arial">Frontend • Backend • App Development • Game Development</font></h3>
 
 ---
 
